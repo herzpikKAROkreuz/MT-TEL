@@ -127,7 +127,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"group1"
+                 "value":"Room3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -145,7 +145,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"group2"
+                 "value":"Room4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -163,7 +163,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"group3"
+                 "value":"Room5"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -181,7 +181,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"grouproomtop"
+                 "value":"Room6"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -199,7 +199,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"grouproombottom"
+                 "value":"Room7"
                 }],
          "type":"tilelayer",
          "visible":true,
